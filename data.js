@@ -126,3 +126,5 @@ const driversInRandomOrder = [
 		id: 'd15a9c50-5943-4be6-872f-b850914c9a80',
 	},
 ];
+
+export default driversInRandomOrder;
