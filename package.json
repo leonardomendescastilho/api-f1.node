@@ -1,0 +1,15 @@
+{
+	"name": "api",
+	"version": "1.0.0",
+	"description": "projeto de uma api que entrega os dados da competicão fórmula-1 de 2023",
+	"main": "app.js",
+	"scripts": {
+		"dev": "node --watch ."
+	},
+	"author": "Leonardo de Castilho",
+	"license": "MIT",
+	"type": "module",
+	"dependencies": {
+		"express": "^4.19.2"
+	}
+}
